@@ -1,9 +1,4 @@
-# Affordmed Campus Hiring Evaluation
-
-This repository contains my submission for the Affordmed Campus Hiring Evaluation.  
-It includes the required Logging Middleware and the Frontend Test Submission as per the provided guidelines.
-
----
+#TinyURL
 
 ## Folder Structure
 
