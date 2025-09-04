@@ -1,17 +1,4 @@
-#TinyURL
-
-## Folder Structure
-
-```
-├── LoggingMiddleware/
-│   └── log.js
-├── FrontendTestSubmission/
-│   └── [React App Source Code]
-├── SystemDesign.md
-```
-
----
-
+#**TinyURL**
 ## Contents
 
 - **LoggingMiddleware/**  
@@ -27,10 +14,6 @@
   - Integrates the logging middleware throughout the codebase.
   - Uses Material UI for styling.
 
-- **SystemDesign.md**  
-  Outlines architectural and code design choices, data modelling, technology selections, and assumptions.
-
----
 
 ## How to Run
 
